@@ -1,0 +1,40 @@
+body {background-color: rgb(56, 240, 130);}
+
+h1 {
+text-align: center;
+align-items: center;
+color: rgb(10, 139, 55);
+font-size: 300%;
+border-style: double;
+border-radius: 50%; 
+border-color: rgb(10, 139, 55);
+border-width: 60%;
+}
+
+h2 {
+    text-align: center;
+    align-items: center;
+    color:black;
+    font-size: 200%;
+}
+
+
+h3 {
+    text-align: center;
+    align-items: center;
+    color: rgb(10, 139, 55);
+    font-size: 200%;
+    border-style: double;
+    border-radius: 50%; 
+    border-color: rgb(10, 139, 55);
+    border-width: 60%;
+}
+
+a {
+text-align: center;
+align-items: center;
+font-size: 200%;
+color: black;
+}
+#lala {margin-left: 30%;}
+#lala {width: 40%;}
