@@ -1,6 +1,6 @@
 body {background-color: rgb(56, 240, 130);}
 
-h1 {
+.p1 {
 text-align: center;
 align-items: center;
 color: rgb(10, 139, 55);
@@ -11,7 +11,7 @@ border-color: rgb(10, 139, 55);
 border-width: 60%;
 }
 
-h2 {
+.p2 {
     text-align: center;
     align-items: center;
     color:black;
